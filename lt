@@ -125,7 +125,7 @@ https://normielista.com/hboplus
 https://normielista.com/hbox
 #EXTINF:-1 tvg-id="63"tvg-logo="https://normielista.online/images/adult_swim.png"group-title="INFANTIL",Adult Swim
 https://normielista.com/adultswim
-#EXTINF:-1 tvg-id="64"tvg-logo="https://normielista.online/images/baby_tv.png"group-title="INFANTIL",BabyTV
+#EXTINF:-1 tvg-id="64"tvg-logo="https://normielista.online/images/baby_tv.png" aspect-ratio=16:9 group-title="INFANTIL",BabyTV
 https://normielista.com/babytv
 #EXTINF:-1 tvg-id="65"tvg-logo="https://normielista.online/images/cartoon_network.png"group-title="INFANTIL",Cartoon Network
 https://normielista.com/cn
