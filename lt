@@ -65,157 +65,155 @@ https://normielista.com/tnt
 https://normielista.com/tntseries
 #EXTINF:-1 tvg-id="33"tvg-logo="https://normielista.online/images/universal_tv.png"group-title="CINE Y SERIES",Universal
 https://normielista.com/universal
-#EXTINF:-1 tvg-id="34"tvg-logo="https://normielista.online/images/universal_tv.png"group-title="CINE Y SERIES",Universal TV
-https://normielista.com/universal
-#EXTINF:-1 tvg-id="35"tvg-logo="https://normielista.online/images/usa_network.png"group-title="CINE Y SERIES",USA Network
+#EXTINF:-1 tvg-id="34"tvg-logo="https://normielista.online/images/usa_network.png"group-title="CINE Y SERIES",USA Network
 https://normielista.com/usa
-#EXTINF:-1 tvg-id="36"tvg-logo="https://normielista.online/images/warner_channel.png"group-title="CINE Y SERIES",Warner Channel
+#EXTINF:-1 tvg-id="35"tvg-logo="https://normielista.online/images/warner_channel.png"group-title="CINE Y SERIES",Warner Channel
 https://normielista.com/warner
-#EXTINF:-1 tvg-id="37"tvg-logo="https://normielista.online/images/13_c.png"group-title="CULTURA",13C
+#EXTINF:-1 tvg-id="36"tvg-logo="https://normielista.online/images/13_c.png"group-title="CULTURA",13C
 https://normielista.com/13c
-#EXTINF:-1 tvg-id="38"tvg-logo="https://normielista.online/images/discovery.png"group-title="CULTURA",Discovery Channel
+#EXTINF:-1 tvg-id="37"tvg-logo="https://normielista.online/images/discovery.png"group-title="CULTURA",Discovery Channel
 https://normielista.com/discovery
-#EXTINF:-1 tvg-id="39"tvg-logo="https://normielista.online/images/discovery_home_health.png"group-title="CULTURA",Discovery Home & Health
+#EXTINF:-1 tvg-id="38"tvg-logo="https://normielista.online/images/discovery_home_health.png"group-title="CULTURA",Discovery Home & Health
 https://normielista.com/dischh
-#EXTINF:-1 tvg-id="40"tvg-logo="https://normielista.online/images/discovery_science.png"group-title="CULTURA",Discovery Science
+#EXTINF:-1 tvg-id="39"tvg-logo="https://normielista.online/images/discovery_science.png"group-title="CULTURA",Discovery Science
 https://normielista.com/dscscience
-#EXTINF:-1 tvg-id="41"tvg-logo="https://normielista.online/images/discovery_tlc.png"group-title="CULTURA",TLC
+#EXTINF:-1 tvg-id="40"tvg-logo="https://normielista.online/images/discovery_tlc.png"group-title="CULTURA",TLC
 https://normielista.com/disctlc
-#EXTINF:-1 tvg-id="42"tvg-logo="https://normielista.online/images/discovery_world.png"group-title="CULTURA",Discovery World
+#EXTINF:-1 tvg-id="41"tvg-logo="https://normielista.online/images/discovery_world.png"group-title="CULTURA",Discovery World
 https://normielista.com/dscworld
-#EXTINF:-1 tvg-id="43"tvg-logo="https://normielista.online/images/food_network.png"group-title="CULTURA",Food Network
+#EXTINF:-1 tvg-id="42"tvg-logo="https://normielista.online/images/food_network.png"group-title="CULTURA",Food Network
 https://normielista.com/food
-#EXTINF:-1 tvg-id="44"tvg-logo="https://normielista.online/images/history.png"group-title="CULTURA",History Channel
+#EXTINF:-1 tvg-id="43"tvg-logo="https://normielista.online/images/history.png"group-title="CULTURA",History Channel
 https://normielista.com/history
-#EXTINF:-1 tvg-id="45"tvg-logo="https://normielista.online/images/love_nature.png"group-title="CULTURA",Love Nature
+#EXTINF:-1 tvg-id="44"tvg-logo="https://normielista.online/images/love_nature.png"group-title="CULTURA",Love Nature
 https://normielista.com/lovenature
-#EXTINF:-1 tvg-id="46"tvg-logo="https://normielista.online/images/nat_geo.png"group-title="CULTURA",National Geographic Channel
+#EXTINF:-1 tvg-id="45"tvg-logo="https://normielista.online/images/nat_geo.png"group-title="CULTURA",National Geographic Channel
 https://normielista.com/natgeo
-#EXTINF:-1 tvg-id="47"tvg-logo="https://normielista.online/images/cdo.png"group-title="DEPORTES",CDO
+#EXTINF:-1 tvg-id="46"tvg-logo="https://normielista.online/images/cdo.png"group-title="DEPORTES",CDO
 https://normielista.com/cdo
-#EXTINF:-1 tvg-id="48"tvg-logo="https://normielista.online/images/discovery_turbo.png"group-title="DEPORTES",Discovery Turbo
+#EXTINF:-1 tvg-id="47"tvg-logo="https://normielista.online/images/discovery_turbo.png"group-title="DEPORTES",Discovery Turbo
 https://normielista.com/dscturbo
-#EXTINF:-1 tvg-id="49"tvg-logo="https://normielista.online/images/espn.png"group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-id="48"tvg-logo="https://normielista.online/images/espn.png"group-title="DEPORTES",ESPN
 https://normielista.com/espncl
-#EXTINF:-1 tvg-id="50"tvg-logo="https://normielista.online/images/espn_2.png"group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-id="49"tvg-logo="https://normielista.online/images/espn_2.png"group-title="DEPORTES",ESPN 2
 https://normielista.com/espn2cl
-#EXTINF:-1 tvg-id="51"tvg-logo="https://normielista.online/images/espn_3.png"group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-id="50"tvg-logo="https://normielista.online/images/espn_3.png"group-title="DEPORTES",ESPN 3
 https://normielista.com/espn3sur
-#EXTINF:-1 tvg-id="52"tvg-logo="https://normielista.online/images/espn_5.png"group-title="DEPORTES",ESPN 5
+#EXTINF:-1 tvg-id="51"tvg-logo="https://normielista.online/images/espn_5.png"group-title="DEPORTES",ESPN 5
 https://normielista.com/espn5cl
-#EXTINF:-1 tvg-id="53"tvg-logo="https://normielista.online/images/espn_6.png"group-title="DEPORTES",ESPN 6
+#EXTINF:-1 tvg-id="52"tvg-logo="https://normielista.online/images/espn_6.png"group-title="DEPORTES",ESPN 6
 https://normielista.com/espn6lat
-#EXTINF:-1 tvg-id="54"tvg-logo="https://normielista.online/images/espn_7.png"group-title="DEPORTES",ESPN 7
+#EXTINF:-1 tvg-id="53"tvg-logo="https://normielista.online/images/espn_7.png"group-title="DEPORTES",ESPN 7
 https://normielista.com/espn7sur
-#EXTINF:-1 tvg-id="55"tvg-logo="https://normielista.online/images/espn_premium.png"group-title="DEPORTES",ESPN Premium
+#EXTINF:-1 tvg-id="54"tvg-logo="https://normielista.online/images/espn_premium.png"group-title="DEPORTES",ESPN Premium
 https://normielista.com/espnpcl
-#EXTINF:-1 tvg-id="56"tvg-logo="https://normielista.online/images/gol_tv.png"group-title="DEPORTES",Gol TV
+#EXTINF:-1 tvg-id="55"tvg-logo="https://normielista.online/images/gol_tv.png"group-title="DEPORTES",Gol TV
 https://normielista.com/goltv
-#EXTINF:-1 tvg-id="57"tvg-logo="https://normielista.online/images/teletrak_tv.png"group-title="DEPORTES",Teletrak TV
+#EXTINF:-1 tvg-id="56"tvg-logo="https://normielista.online/images/teletrak_tv.png"group-title="DEPORTES",Teletrak TV
 https://normielista.com/teletrak
-#EXTINF:-1 tvg-id="58"tvg-logo="https://normielista.online/images/tnt_sports.png"group-title="DEPORTES",TNT Sports
+#EXTINF:-1 tvg-id="57"tvg-logo="https://normielista.online/images/tnt_sports.png"group-title="DEPORTES",TNT Sports
 https://normielista.com/tntscl
-#EXTINF:-1 tvg-id="59"tvg-logo="https://normielista.online/images/tnt_sports_premium.png"group-title="DEPORTES",TNT Sports Premium
+#EXTINF:-1 tvg-id="58"tvg-logo="https://normielista.online/images/tnt_sports_premium.png"group-title="DEPORTES",TNT Sports Premium
 https://normielista.com/tntsp
-#EXTINF:-1 tvg-id="60"tvg-logo="https://normielista.online/images/tyc.png"group-title="DEPORTES",TyC Sports
+#EXTINF:-1 tvg-id="59"tvg-logo="https://normielista.online/images/tyc.png"group-title="DEPORTES",TyC Sports
 https://normielista.com/tyclat
-#EXTINF:-1 tvg-id="61"tvg-logo="https://normielista.online/images/hbo_2.png"group-title="HBO PREMIUM",HBO 2
+#EXTINF:-1 tvg-id="60"tvg-logo="https://normielista.online/images/hbo_2.png"group-title="HBO PREMIUM",HBO 2
 https://normielista.com/hbo2o
-#EXTINF:-1 tvg-id="62"tvg-logo="https://normielista.online/images/hbo_chile.png"group-title="HBO PREMIUM",HBO
+#EXTINF:-1 tvg-id="61"tvg-logo="https://normielista.online/images/hbo_chile.png"group-title="HBO PREMIUM",HBO
 https://normielista.com/hbocl
-#EXTINF:-1 tvg-id="63"tvg-logo="https://normielista.online/images/hbo_family.png"group-title="HBO PREMIUM",HBO Family
+#EXTINF:-1 tvg-id="62"tvg-logo="https://normielista.online/images/hbo_family.png"group-title="HBO PREMIUM",HBO Family
 https://normielista.com/hbof
-#EXTINF:-1 tvg-id="64"tvg-logo="https://normielista.online/images/hbo_mundi.png"group-title="HBO PREMIUM",HBO Mundi
+#EXTINF:-1 tvg-id="63"tvg-logo="https://normielista.online/images/hbo_mundi.png"group-title="HBO PREMIUM",HBO Mundi
 https://normielista.com/hbom
-#EXTINF:-1 tvg-id="65"tvg-logo="https://normielista.online/images/hbo_pop.png"group-title="HBO PREMIUM",HBO Pop
+#EXTINF:-1 tvg-id="64"tvg-logo="https://normielista.online/images/hbo_pop.png"group-title="HBO PREMIUM",HBO Pop
 https://normielista.com/hbopop
-#EXTINF:-1 tvg-id="66"tvg-logo="https://normielista.online/images/hbo_signature.png"group-title="HBO PREMIUM",HBO Signature
+#EXTINF:-1 tvg-id="65"tvg-logo="https://normielista.online/images/hbo_signature.png"group-title="HBO PREMIUM",HBO Signature
 https://normielista.com/hboplus
-#EXTINF:-1 tvg-id="67"tvg-logo="https://normielista.online/images/hbo_xtreme.png"group-title="HBO PREMIUM",HBO Xtreme
+#EXTINF:-1 tvg-id="66"tvg-logo="https://normielista.online/images/hbo_xtreme.png"group-title="HBO PREMIUM",HBO Xtreme
 https://normielista.com/hbox
-#EXTINF:-1 tvg-id="68"tvg-logo="https://normielista.online/images/adult_swim.png"group-title="INFANTIL",Adult Swim
+#EXTINF:-1 tvg-id="67"tvg-logo="https://normielista.online/images/adult_swim.png"group-title="INFANTIL",Adult Swim
 https://normielista.com/adultswim
-#EXTINF:-1 tvg-id="69"tvg-logo="https://normielista.online/images/baby_tv.png"group-title="INFANTIL",BabyTV
+#EXTINF:-1 tvg-id="68"tvg-logo="https://normielista.online/images/baby_tv.png"group-title="INFANTIL",BabyTV
 https://normielista.com/babytv
-#EXTINF:-1 tvg-id="70"tvg-logo="https://normielista.online/images/cartoon_network.png"group-title="INFANTIL",Cartoon Network
+#EXTINF:-1 tvg-id="69"tvg-logo="https://normielista.online/images/cartoon_network.png"group-title="INFANTIL",Cartoon Network
 https://normielista.com/cn
-#EXTINF:-1 tvg-id="71"tvg-logo="https://normielista.online/images/cartoonito.png"group-title="INFANTIL",Cartoonito
+#EXTINF:-1 tvg-id="70"tvg-logo="https://normielista.online/images/cartoonito.png"group-title="INFANTIL",Cartoonito
 https://normielista.com/cartoonito
-#EXTINF:-1 tvg-id="72"tvg-logo="https://normielista.online/images/discovery_kids.png"group-title="INFANTIL",Discovery Kids
+#EXTINF:-1 tvg-id="71"tvg-logo="https://normielista.online/images/discovery_kids.png"group-title="INFANTIL",Discovery Kids
 https://normielista.com/dsckids
-#EXTINF:-1 tvg-id="73"tvg-logo="https://normielista.online/images/disney_channel.png"group-title="INFANTIL",Disney Channel
+#EXTINF:-1 tvg-id="72"tvg-logo="https://normielista.online/images/disney_channel.png"group-title="INFANTIL",Disney Channel
 https://normielista.com/disney
-#EXTINF:-1 tvg-id="74"tvg-logo="https://normielista.online/images/disney_junior.png"group-title="INFANTIL",Disney Junior
+#EXTINF:-1 tvg-id="73"tvg-logo="https://normielista.online/images/disney_junior.png"group-title="INFANTIL",Disney Junior
 https://normielista.com/disneyjr
-#EXTINF:-1 tvg-id="75"tvg-logo="https://normielista.online/images/dreamworks.png"group-title="INFANTIL",Dreamworks Channel
+#EXTINF:-1 tvg-id="74"tvg-logo="https://normielista.online/images/dreamworks.png"group-title="INFANTIL",Dreamworks Channel
 https://normielista.com/dreamworks
-#EXTINF:-1 tvg-id="76"tvg-logo="https://normielista.online/images/etc.png"group-title="INFANTIL",ETC
+#EXTINF:-1 tvg-id="75"tvg-logo="https://normielista.online/images/etc.png"group-title="INFANTIL",ETC
 https://normielista.com/etc
-#EXTINF:-1 tvg-id="77"tvg-logo="https://normielista.online/images/nick_jr.png"group-title="INFANTIL",Nick Jr
+#EXTINF:-1 tvg-id="76"tvg-logo="https://normielista.online/images/nick_jr.png"group-title="INFANTIL",Nick Jr
 https://normielista.com/nickjr
-#EXTINF:-1 tvg-id="78"tvg-logo="https://normielista.online/images/nickelodeon.png"group-title="INFANTIL",Nickelodeon
+#EXTINF:-1 tvg-id="77"tvg-logo="https://normielista.online/images/nickelodeon.png"group-title="INFANTIL",Nickelodeon
 https://normielista.com/nick
-#EXTINF:-1 tvg-id="79"tvg-logo="https://normielista.online/images/ntv.png"group-title="INFANTIL",NTV
+#EXTINF:-1 tvg-id="78"tvg-logo="https://normielista.online/images/ntv.png"group-title="INFANTIL",NTV
 https://normielista.com/ntv
-#EXTINF:-1 tvg-id="80"tvg-logo="https://normielista.online/images/tooncast.png"group-title="INFANTIL",Tooncast
+#EXTINF:-1 tvg-id="79"tvg-logo="https://normielista.online/images/tooncast.png"group-title="INFANTIL",Tooncast
 https://normielista.com/tooncast
-#EXTINF:-1 tvg-id="81"tvg-logo="https://normielista.online/images/bbc_news.png"group-title="MUNDOS",BBC News
+#EXTINF:-1 tvg-id="80"tvg-logo="https://normielista.online/images/bbc_news.png"group-title="MUNDOS",BBC News
 https://normielista.com/bbcnews
-#EXTINF:-1 tvg-id="82"tvg-logo="https://normielista.online/images/cnn_espanol.png"group-title="MUNDOS",CNN en Español
+#EXTINF:-1 tvg-id="81"tvg-logo="https://normielista.online/images/cnn_espanol.png"group-title="MUNDOS",CNN en Español
 https://normielista.com/cnnesp
-#EXTINF:-1 tvg-id="83"tvg-logo="https://normielista.online/images/cnn_international.png"group-title="MUNDOS",CNN International
+#EXTINF:-1 tvg-id="82"tvg-logo="https://normielista.online/images/cnn_international.png"group-title="MUNDOS",CNN International
 https://normielista.com/cnnint
-#EXTINF:-1 tvg-id="84"tvg-logo="https://normielista.online/images/dw_espanol.png"group-title="MUNDOS",DW en Español
+#EXTINF:-1 tvg-id="83"tvg-logo="https://normielista.online/images/dw_espanol.png"group-title="MUNDOS",DW en Español
 https://normielista.com/dw
-#EXTINF:-1 tvg-id="85"tvg-logo="https://normielista.online/images/fox_news.png"group-title="MUNDOS",Fox News
+#EXTINF:-1 tvg-id="84"tvg-logo="https://normielista.online/images/fox_news.png"group-title="MUNDOS",Fox News
 https://normielista.com/foxnews
-#EXTINF:-1 tvg-id="86"tvg-logo="https://normielista.online/images/rai_italia.png"group-title="MUNDOS",RAI Italia
+#EXTINF:-1 tvg-id="85"tvg-logo="https://normielista.online/images/rai_italia.png"group-title="MUNDOS",RAI Italia
 https://normielista.com/rai
-#EXTINF:-1 tvg-id="87"tvg-logo="https://normielista.online/images/telefe_internacional.png"group-title="MUNDOS",Telefe Internacional
+#EXTINF:-1 tvg-id="86"tvg-logo="https://normielista.online/images/telefe_internacional.png"group-title="MUNDOS",Telefe Internacional
 https://normielista.com/telefeint
-#EXTINF:-1 tvg-id="88"tvg-logo="https://normielista.online/images/tv5_monde.png"group-title="MUNDOS",TV5 Monde Amerique Latine
+#EXTINF:-1 tvg-id="87"tvg-logo="https://normielista.online/images/tv5_monde.png"group-title="MUNDOS",TV5 Monde Amerique Latine
 https://normielista.com/tv5
-#EXTINF:-1 tvg-id="89"tvg-logo="https://normielista.online/images/club_mtv.png"group-title="MÚSICA",Club MTV
+#EXTINF:-1 tvg-id="88"tvg-logo="https://normielista.online/images/club_mtv.png"group-title="MÚSICA",Club MTV
 https://normielista.com/clubmtv
-#EXTINF:-1 tvg-id="90"tvg-logo="https://normielista.online/images/htv.png"group-title="MÚSICA",HTV
+#EXTINF:-1 tvg-id="89"tvg-logo="https://normielista.online/images/htv.png"group-title="MÚSICA",HTV
 https://normielista.com/htv
-#EXTINF:-1 tvg-id="91"tvg-logo="https://normielista.online/images/mtv_hits.png"group-title="MÚSICA",MTV Hits
+#EXTINF:-1 tvg-id="90"tvg-logo="https://normielista.online/images/mtv_hits.png"group-title="MÚSICA",MTV Hits
 https://normielista.com/mtvhits
-#EXTINF:-1 tvg-id="92"tvg-logo="https://normielista.online/images/nick_music.png"group-title="MÚSICA",NickMusic
+#EXTINF:-1 tvg-id="91"tvg-logo="https://normielista.online/images/nick_music.png"group-title="MÚSICA",NickMusic
 https://normielista.com/nickmusiceu
-#EXTINF:-1 tvg-id="93"tvg-logo="https://normielista.online/images/biobio_tv.png"group-title="REGIONALES",Bío-Bío TV
+#EXTINF:-1 tvg-id="92"tvg-logo="https://normielista.online/images/biobio_tv.png"group-title="REGIONALES",Bío-Bío TV
 https://normielista.com/bbtv
-#EXTINF:-1 tvg-id="94"tvg-logo="https://normielista.online/images/canal_9_biobio.png"group-title="REGIONALES",Canal 9 Bío-Bío Televisión
+#EXTINF:-1 tvg-id="93"tvg-logo="https://normielista.online/images/canal_9_biobio.png"group-title="REGIONALES",Canal 9 Bío-Bío Televisión
 https://normielista.com/c9bbtv
-#EXTINF:-1 tvg-id="95"tvg-logo="https://normielista.online/images/diputados.png"group-title="REGIONALES",Camara de Diputadas y Diputados Televisión
+#EXTINF:-1 tvg-id="94"tvg-logo="https://normielista.online/images/diputados.png"group-title="REGIONALES",Camara de Diputadas y Diputados Televisión
 https://normielista.com/cdtv
-#EXTINF:-1 tvg-id="96"tvg-logo="https://normielista.online/images/senado.png"group-title="REGIONALES",TV Senado
+#EXTINF:-1 tvg-id="95"tvg-logo="https://normielista.online/images/senado.png"group-title="REGIONALES",TV Senado
 https://normielista.com/tvs
-#EXTINF:-1 tvg-id="97"tvg-logo="https://normielista.online/images/tv8.png"group-title="REGIONALES",TV8 (Concepción)
+#EXTINF:-1 tvg-id="96"tvg-logo="https://normielista.online/images/tv8.png"group-title="REGIONALES",TV8 (Concepción)
 https://normielista.com/tv8
-#EXTINF:-1 tvg-id="98"tvg-logo="https://normielista.online/images/bloomberg.png"group-title="VARIEDADES",Bloomberg Television
+#EXTINF:-1 tvg-id="97"tvg-logo="https://normielista.online/images/bloomberg.png"group-title="VARIEDADES",Bloomberg Television
 https://normielista.com/bloomberg4k
-#EXTINF:-1 tvg-id="99"tvg-logo="https://normielista.online/images/e_entertaiment.png"group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="98"tvg-logo="https://normielista.online/images/e_entertaiment.png"group-title="VARIEDADES",E!
 https://normielista.com/e
-#EXTINF:-1 tvg-id="100"tvg-logo="https://normielista.online/images/el_gourmet.png"group-title="VARIEDADES",El Gourmet
+#EXTINF:-1 tvg-id="99"tvg-logo="https://normielista.online/images/el_gourmet.png"group-title="VARIEDADES",El Gourmet
 https://normielista.com/gourmet
-#EXTINF:-1 tvg-id="101"tvg-logo="https://normielista.online/images/hgtv.png"group-title="VARIEDADES",HGTV
+#EXTINF:-1 tvg-id="100"tvg-logo="https://normielista.online/images/hgtv.png"group-title="VARIEDADES",HGTV
 https://normielista.com/hgtv
-#EXTINF:-1 tvg-id="102"tvg-logo="https://normielista.online/images/id.png"group-title="VARIEDADES",Investigation Discovery
+#EXTINF:-1 tvg-id="101"tvg-logo="https://normielista.online/images/id.png"group-title="VARIEDADES",Investigation Discovery
 https://normielista.com/id
-#EXTINF:-1 tvg-id="103"tvg-logo="https://normielista.online/images/las_estrellas.png"group-title="VARIEDADES",Las Estrellas
+#EXTINF:-1 tvg-id="102"tvg-logo="https://normielista.online/images/las_estrellas.png"group-title="VARIEDADES",Las Estrellas
 https://normielista.com/estrellas
-#EXTINF:-1 tvg-id="104"tvg-logo="https://normielista.online/images/mas_chic.png"group-title="VARIEDADES",Mas Chic
+#EXTINF:-1 tvg-id="103"tvg-logo="https://normielista.online/images/mas_chic.png"group-title="VARIEDADES",Mas Chic
 https://normielista.com/maschic
-#EXTINF:-1 tvg-id="105"tvg-logo="https://normielista.online/images/mtv.png"group-title="VARIEDADES",MTV
+#EXTINF:-1 tvg-id="104"tvg-logo="https://normielista.online/images/mtv.png"group-title="VARIEDADES",MTV
 https://normielista.com/mtv
-#EXTINF:-1 tvg-id="106"tvg-logo="https://normielista.online/images/star_tve.png"group-title="VARIEDADES",Star TVE
+#EXTINF:-1 tvg-id="105"tvg-logo="https://normielista.online/images/star_tve.png"group-title="VARIEDADES",Star TVE
 https://normielista.com/startve
-#EXTINF:-1 tvg-id="107"tvg-logo="https://normielista.online/images/telemundo_internacional.png"group-title="VARIEDADES",Telemundo Internacional
+#EXTINF:-1 tvg-id="106"tvg-logo="https://normielista.online/images/telemundo_internacional.png"group-title="VARIEDADES",Telemundo Internacional
 https://normielista.com/telemundo
-#EXTINF:-1 tvg-id="108"tvg-logo="https://normielista.online/images/tnt_novelas.png"group-title="VARIEDADES",TNT Novelas
+#EXTINF:-1 tvg-id="107"tvg-logo="https://normielista.online/images/tnt_novelas.png"group-title="VARIEDADES",TNT Novelas
 https://normielista.com/tntnov
-#EXTINF:-1 tvg-id="109"tvg-logo="https://normielista.online/images/viax.png"group-title="VARIEDADES",Vía X
+#EXTINF:-1 tvg-id="108"tvg-logo="https://normielista.online/images/viax.png"group-title="VARIEDADES",Vía X
 https://normielista.com/viax
-#EXTINF:-1 tvg-id="110"tvg-logo="https://normielista.online/images/zona_latina.png"group-title="VARIEDADES",Zona Latina
+#EXTINF:-1 tvg-id="109"tvg-logo="https://normielista.online/images/zona_latina.png"group-title="VARIEDADES",Zona Latina
 https://normielista.com/zl
