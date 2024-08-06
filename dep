@@ -1,4 +1,4 @@
-
+#EXTM3U url-tvg="https://normielista.com/epg" tvg-shift=0 catchup="shift" catchup-days=6 
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://normielista.online/images/telecanal.png" tvg-id="0101",Telecanal
 https://normielista.com/telecanal
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://normielista.online/images/la_red.png" tvg-id="0102",La Red
